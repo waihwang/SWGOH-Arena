@@ -1,1 +1,254 @@
-#json-test
+{
+    "Sheet1": [
+        {
+            "name": "Círdan",
+            "allyCode": "417314396"
+        },
+        {
+            "name": "Keszey",
+            "allyCode": "935513752"
+        },
+        {
+            "name": "SunnyK",
+            "allyCode": "815566365"
+        },
+        {
+            "name": "Tip Von Skin",
+            "allyCode": "912764293"
+        },
+        {
+            "name": "Kein Liberator",
+            "allyCode": "172774166"
+        },
+        {
+            "name": "Timmmyh",
+            "allyCode": "552335491"
+        },
+        {
+            "name": "Jason",
+            "allyCode": "296785549"
+        },
+        {
+            "name": "Zeriel",
+            "allyCode": "771588767"
+        },
+        {
+            "name": "Stavros",
+            "allyCode": "414687122"
+        },
+        {
+            "name": "Fabian Hashimoto",
+            "allyCode": "249965128"
+        },
+        {
+            "name": "Drakorin",
+            "allyCode": "541861946"
+        },
+        {
+            "name": "schembri",
+            "allyCode": "852538859"
+        },
+        {
+            "name": "Davis",
+            "allyCode": "888816535"
+        },
+        {
+            "name": "Adrian111999",
+            "allyCode": "462251876"
+        },
+        {
+            "name": "Gigabyte",
+            "allyCode": "831968127"
+        },
+        {
+            "name": "Helfy",
+            "allyCode": "199425845"
+        },
+        {
+            "name": "Arkii",
+            "allyCode": "713746377"
+        },
+        {
+            "name": "MihaiL",
+            "allyCode": "389849199"
+        },
+        {
+            "name": "ANZGC Gio Mus",
+            "allyCode": "614652947"
+        },
+        {
+            "name": "KingPete",
+            "allyCode": "749319482"
+        },
+        {
+            "name": "Polarice",
+            "allyCode": "515997376"
+        },
+        {
+            "name": "Jedibear23",
+            "allyCode": "152181579"
+        },
+        {
+            "name": "Bertuccio",
+            "allyCode": "132175393"
+        },
+        {
+            "name": "GeneralArthur",
+            "allyCode": "129172147"
+        },
+        {
+            "name": "Looooooookie",
+            "allyCode": "848979571"
+        },
+        {
+            "name": "Dino",
+            "allyCode": "197377293"
+        },
+        {
+            "name": "DeathStriderX",
+            "allyCode": "456787459"
+        },
+        {
+            "name": "StubbornGoat",
+            "allyCode": "389865255"
+        },
+        {
+            "name": "Kyo",
+            "allyCode": "576793624"
+        },
+        {
+            "name": "Jason GMT 8",
+            "allyCode": "557778793"
+        },
+        {
+            "name": "Soulout",
+            "allyCode": "787526658",
+            "discordID": "Soulout#2458",
+            "userIcon": "SG"
+        },
+        {
+            "name": "Matt Skyjumper W",
+            "allyCode": "813329945"
+        },
+        {
+            "name": "FR3D",
+            "allyCode": "178967561"
+        },
+        {
+            "name": "ӄʅ",
+            "allyCode": "631493256"
+        },
+        {
+            "name": "kgwzz",
+            "allyCode": "282315126"
+        },
+        {
+            "name": "Ƥôpę69",
+            "allyCode": "822351444"
+        },
+        {
+            "name": "ZFRUT",
+            "allyCode": "484661962"
+        },
+        {
+            "name": "12 monkeys",
+            "allyCode": "456679638"
+        },
+        {
+            "name": "AhahyAhahy",
+            "allyCode": "615241469"
+        },
+        {
+            "name": "PistolPeteAKAJohnWickIsBack",
+            "allyCode": "938793773"
+        },
+        {
+            "name": "Yarbee DarthNihilus",
+            "allyCode": "767163467"
+        },
+        {
+            "name": "GrootBeer",
+            "allyCode": "989749624"
+        },
+        {
+            "name": "Kart Mort",
+            "allyCode": "421836278"
+        },
+        {
+            "name": "USS ENTERPRISE",
+            "allyCode": "228473566"
+        },
+        {
+            "name": "tarkosalinec",
+            "allyCode": "634831727"
+        },
+        {
+            "name": "Serg",
+            "allyCode": "777689327"
+        },
+        {
+            "name": "Vinniarth Poohader",
+            "allyCode": "457568837"
+        },
+        {
+            "name": "Mogumba",
+            "allyCode": "985972468"
+        },
+        {
+            "name": "aGuru",
+            "allyCode": "767214375"
+        },
+        {
+            "name": "Lucinian",
+            "allyCode": "561612881"
+        },
+        {
+            "name": "MoRgEn",
+            "allyCode": "759548454"
+        },
+        {
+            "name": "Lustra",
+            "allyCode": "947354936"
+        },
+        {
+            "name": "Eener Gwnok",
+            "allyCode": "766461338"
+        },
+        {
+            "name": "iM Ard",
+            "allyCode": "595553564"
+        },
+        {
+            "name": "Joelightyear",
+            "allyCode": "899639254"
+        },
+        {
+            "name": "DrkLrdBill",
+            "allyCode": "668861719"
+        },
+        {
+            "name": "AJGuck",
+            "allyCode": "142243366"
+        },
+        {
+            "name": "4PDA Vitos",
+            "allyCode": "594487892"
+        },
+        {
+            "name": "Zaxa",
+            "allyCode": "835333823"
+        },
+        {
+            "name": "Oachkatzlschwoaf",
+            "allyCode": "163557659"
+        },
+        {
+            "name": "Florin DJBrain",
+            "allyCode": "656973888"
+        },
+        {
+            "name": "Hiitsmetom",
+            "allyCode": "533511365"
+        }
+    ]
+}
